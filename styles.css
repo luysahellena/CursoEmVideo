@@ -1,0 +1,11 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    } */
+
+body {
+    background: rgb(68, 125, 199);
+    color: white;
+    font: normal 'Comic Sans' 18pt
+}
