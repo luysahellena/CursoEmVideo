@@ -9,3 +9,17 @@ body {
     color: white;
     font: normal 'Comic Sans' 18pt
 }
+
+
+div {
+    display: flex;
+}
+
+#teste {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
